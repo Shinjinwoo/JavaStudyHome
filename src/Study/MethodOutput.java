@@ -7,6 +7,7 @@ public class MethodOutput {
 		int i = init;
 
 		String output = "";
+//		æ»≥Á«œººø‰.
 
 		while (i < limit) {
 			output += i;
