@@ -7,7 +7,7 @@ public class MethodOutput {
 		int i = init;
 
 		String output = "";
-//		¾È³çÇÏ¼¼¿ä.
+//		ì•ˆë…•í•˜ì„¸ìš”.d
 
 		while (i < limit) {
 			output += i;
