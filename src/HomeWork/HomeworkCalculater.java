@@ -31,6 +31,7 @@ public class HomeworkCalculater extends JFrame implements ActionListener {
 	private JPanel panel;
 
 	public HomeworkCalculater() {
+		System.out.println();
 
 		resultView = new JTextField(30);
 		//좌우폭 30의 리설트뷰 선언
