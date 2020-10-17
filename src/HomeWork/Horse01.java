@@ -24,6 +24,8 @@ class Horse02 implements Runnable {
 public class Horse01 {
 	public static void main(String[] args) {
 		
+		System.out.println();
+		//
 		Thread t1 = new Thread(new Horse02(1));
 		Thread t2 = new Thread(new Horse02(2));
 		Thread t3 = new Thread(new Horse02(3));
