@@ -42,10 +42,6 @@ class Main {
 			//map.remove('A');
 			//A라는 특정키를 삭제함
 			
-			
-			
-			
-			
 			if(map.get(key) > max ) {
 				max=map.get(key);
 				answer=key;
